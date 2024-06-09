@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Assistant Professor, 2024-, National University of Singapore
-    Research Associate, 2022-2024, Northwestern University
-    Postdoctoral Fellow, 2020-2022, University of Toronto
-    Ph.D., 2015-2020, McGill University
+    <p>Assistant Professor, 2024-, National University of Singapore</p>
+    <p>Research Associate, 2022-2024, Northwestern University</p>
+    <p>Postdoctoral Fellow, 2020-2022, University of Toronto</p>
+    <p>Ph.D., 2015-2020, McGill University</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
