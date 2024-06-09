@@ -2,11 +2,35 @@
 layout: page
 permalink: /contact/
 title: contact
-description: Materials for courses you taught. Replace this text with your description.
+description: We are actively seeking for highly motivated candidates for postdoctoral fellowshipes, research PhD scholarship, undergraduate students, and visiting scholars.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<b>Postdoctoral Fellowships</b>
+A postdoctoral fellow position is available as early as September 2024 for the development of DFT/ML modeling of heterogeneous catalysis. We are seeking a highly motivated candidate with a strong research background in computational catalysis, 
+A successful candidate for the postdoctoral fellow position will satisfy the following:
+•	A PhD in Chemistry, Materials Science and Engineering, Chemical Engineering, Physics, or a closely related field.
+•	Preference will be given to candidates with a strong research background in computational electrocatalysis, computational materials science, AI/ML, DFT calculations, and AIMD simulations.
+•	Machine learning experience and a strong proficiency in Python programming and data analysis.
+•	Excellent communication skills and a career-level-appropriate publication track record.
+•	The ability to work independently and collaboratively in a diverse research team.
+Preview of applications begins immediately. Applications are accepted until the position is filled.
+Please include a cover letter, C.V. with a list of publications, coding contributions (such as git repository), and the contact information for two to three academic references to Dr. Pengfei Ou (pengfei.ou@northwestern.edu).
 
-Organize your courses by years, topics, or universities, however you like!
+<b>Research PhD scholarships</b>
+Admission requirements:
+•	A Bachelor’s (Honors) degree or a 4-year Bachelor’s degree
+•	Candidates applying for Research Scholarships must have obtained a bachelor’s degree with at least a 2nd Class Upper Honours, or its equivalent.
+•	For all PhD programs, a candidate whose medium of undergraduate instruction is not English is required to submit TOEFL (with the minimum score 85 for the internet-based test) or IELTS (with the minimum score 6.0) scores.
+•	For all PhD programmes, candidates are required to submit GRE (minimum score of 320 [Verbal+ Quantitative] and 3.5 [Analytical Writing]).
+•	Waiver of GRE: GRE waiver may be granted to applicants who demonstrate strong track record of academic excellence on a case-by-case basis. For detailed GRE waiver
+conditions, please check with the respective department PhD administrator.
+
+Please include a cover letter and C.V. to Dr. Pengfei Ou (pengfei.ou@northwestern.edu). Prospective students please also apply for NUS Chemistry and check for more details about the admission requirements on the website (https://chemistry.nus.edu.sg/education/graduate/phd-programme/), for any enrollment semester in 2025.
+
+<b> Undergraduate students </b>
+Undergraduate students who are interested in learning and doing research, please contact Dr. Pengfei Ou directly at pengfei.ou@northwestern.edu.
+
+<b>Visiting scholars</b>
+Visiting scholars who are interested in performing research in AI4Catalysis Group at NUS, please contact Dr. Pengfei Ou directly at pengfei.ou@northwestern.edu with your CV.
