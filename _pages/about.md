@@ -14,9 +14,9 @@ profile:
     <p>Postdoctoral Fellow, 2020-2022, University of Toronto</p>
     <p>Ph.D., 2015-2020, McGill University</p>
 
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
 Welcome to the AI4Catalysis Group. I am an incoming Assistant Professor in the Department of Chemistry at the National University of Singapore under NUS Presentidential Young Professorship.
