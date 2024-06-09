@@ -6,20 +6,24 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: pengfeiou.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>office number</p>
-    <p>=address street</p>
-    <p>=Singapore</p>
+    <p>Assistant Professor, 2024, National University of Singapore</p>
+    <p>Research Associate, 2022-2024, Northwestern University</p>
+    <p>Postdoctoral Fellow, 2020-2022, University of Toronto</p>
+    <p>Ph.D., 2015-2020, McGill University</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Welcome to the TheoryCatGroup. I am an Assistant Professor in the Department of Chemistry at the National University of Singapore. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to the AI4Catalysis Group. I am an incoming Assistant Professor in the Department of Chemistry at the National University of Singapore under NUS Presentidential Young Professorship.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Our research interests focus on
+•	Catalyst design for electrochemical reactions (reaction mechanism, transition states, and reaction thermodynamics and kinetics) using ab initio DFT calculations, cluster expansion, and microkinetic modeling.
+•	Dynamic simulations of chemical processes under reaction conditions (applied potential, field/solvation effect) using (ab initio) molecular dynamics simulations and grand canonical DFT.
+•	Methods development for accelerated catalyst discovery (active learning and Bayesian optimization) using AI4Catalysis, ML, open databases, and data science.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Please see the Research Section for more information about our research interests. Please also see my faculty information at the NUS Chemistry departmental website. If you have any questions or inquiries, please feel free to contact me via my email.
