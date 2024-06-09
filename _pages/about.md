@@ -26,4 +26,4 @@ Our research interests focus on
 •	Dynamic simulations of chemical processes under reaction conditions (applied potential, field/solvation effect) using (ab initio) molecular dynamics simulations and grand canonical DFT.
 •	Methods development for accelerated catalyst discovery (active learning and Bayesian optimization) using AI4Catalysis, ML, open databases, and data science.
 
-Please see the Research Section for more information about our research interests. Please also see my faculty information at the NUS Chemistry departmental website. If you have any questions or inquiries, please feel free to contact me via my email.
+Please see the Research Section for more information about our research interests. Please also see my faculty information at the [NUS Chemistry departmental website](https://chemistry.nus.edu.sg/about-us/our-people/). If you have any questions or inquiries, please feel free to contact me via [email](pengfei.ou@northwestern.edu).
