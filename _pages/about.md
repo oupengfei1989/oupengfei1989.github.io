@@ -22,8 +22,8 @@ social: false # includes social icons at the bottom of the page
 Welcome to the AI4Catalysis Group. I am an incoming Assistant Professor in the Department of Chemistry at the National University of Singapore under NUS Presentidential Young Professorship.
 
 Our research interests focus on
-(1) Catalyst design for electrochemical reactions (reaction mechanism, transition states, and reaction thermodynamics and kinetics) using ab initio DFT calculations, cluster expansion, and microkinetic modeling.
-(2) Dynamic simulations of chemical processes under reaction conditions (applied potential, field/solvation effect) using (ab initio) molecular dynamics simulations and grand canonical DFT.
-(3) Methods development for accelerated catalyst discovery (active learning and Bayesian optimization) using AI4Catalysis, ML, open databases, and data science.
+(1) <p><b>Catalyst design for electrochemical reactions<b> (reaction mechanism, transition states, and reaction thermodynamics and kinetics) using ab initio DFT calculations, cluster expansion, and microkinetic modeling.<p>
+(2) <p><b>Dynamic simulations of chemical processes under reaction conditions<b> (applied potential, field/solvation effect) using (ab initio) molecular dynamics simulations and grand canonical DFT.<p>
+(3) <p><b>Methods development for accelerated catalyst discovery<b> (active learning and Bayesian optimization) using AI4Catalysis, ML, open databases, and data science.<p>
 
 Please see the Research Section for more information about our research interests. Please also see my faculty information at the [NUS Chemistry departmental website](https://chemistry.nus.edu.sg/about-us/our-people/). If you have any questions or inquiries, please feel free to contact me via [email](pengfei.ou@northwestern.edu).
