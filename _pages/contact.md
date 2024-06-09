@@ -27,7 +27,7 @@ Admission requirements:
 •	Waiver of GRE: GRE waiver may be granted to applicants who demonstrate strong track record of academic excellence on a case-by-case basis. For detailed GRE waiver
 conditions, please check with the respective department PhD administrator.
 
-Please include a cover letter and C.V. to Dr. Pengfei Ou (pengfei.ou@northwestern.edu). Prospective students please also apply for NUS Chemistry and check for more details about the admission requirements on the website (https://chemistry.nus.edu.sg/education/graduate/phd-programme/), for any enrollment semester in 2025.
+Please include a cover letter and C.V. to Dr. Pengfei Ou (pengfei.ou@northwestern.edu). Prospective students please also apply for NUS Chemistry and check for more details about the admission requirements on the [website] (https://chemistry.nus.edu.sg/education/graduate/phd-programme/), for any enrollment semester in 2025.
 
 <b> Undergraduate students </b>
 Undergraduate students who are interested in learning and doing research, please contact Dr. Pengfei Ou directly at pengfei.ou@northwestern.edu.
