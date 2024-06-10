@@ -18,7 +18,6 @@ nav_order: 6
 <body>
   <p>Postdoctoral Fellowships in Accelerated Discovery of Catalytic Materials</p>
 </body>
-#<p style="color:#19417E";"font-weight: bold;">Postdoctoral Fellowships in Accelerated Discovery of Catalytic Materials</p>
 <p>A postdoctoral fellow position is available as early as September 2024 join our team and contribute to the discovery of new catalytic materials and next-generation catalysts for CO2RR, OER, NRR, etc. We are seeking a highly motivated candidate with a strong research background in computational catalysis, particularly Density Functional Theory (DFT), Molecular Dynamics (MD), Machine Learning (ML) and be able to lead their own research while collaborating with other team members.</p>
 
 <p>A successful candidate for the postdoctoral fellow position will satisfy the following:
