@@ -22,7 +22,7 @@ How to apply:
 <p>Please include in your application package a cover letter; your full academic CV; information on 3 referees that are prepared to be consulted; your two most relevant publications. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (pengfei.ou@northwestern.edu), with the subject line “Ou Postdoctoral Fellowships NUS Chemistry”. Evaluation of candidates will begin immediately and continue until filled.</p>
 </dl>
 
-
+<br>
 <b>Research PhD Scholarships in Computational Catalysis</b>
 <p>Admission requirements:
 <li>A Bachelor’s (Honors) degree or a 4-year Bachelor’s degree.</li>
@@ -35,10 +35,10 @@ How to apply:
 How to apply:
 <p>Please include in your application package a cover letter; your full academic CV. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (pengfei.ou@northwestern.edu), with the subject line “Ou Research PhD scholarships NUS Chemistry”. Prospective students please also apply for NUS Chemistry and check for more details about the admission requirements on the [website] (https://chemistry.nus.edu.sg/education/graduate/phd-programme/), for any enrollment semester in 2025. Evaluation of candidates will begin immediately and continue until filled.</p>
 
-
+<br>
 <b> Undergraduate students </b>
 <p>Undergraduate students who are interested in learning and doing research in our team, please contact Dr. Pengfei Ou directly at pengfei.ou@northwestern.edu.</p>
 
-
+<br>
 <b>Visiting scholars</b>
 <p>Visiting scholars who are interested in performing research in our team, please contact Dr. Pengfei Ou directly at pengfei.ou@northwestern.edu with your CV.</p>
