@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /careers/
-title: careers
+permalink: /Careers/
+title: Careers
 description: We are actively seeking for highly motivated candidates for postdoctoral fellowshipes, research PhD scholarship, undergraduate students, and visiting scholars.
 nav: true
 nav_order: 6
@@ -12,7 +12,7 @@ nav_order: 6
 <p>A postdoctoral fellow position is available as early as September 2024 join our team and contribute to the discovery of new catalytic materials and next-generation catalysts. We are seeking a highly motivated candidate with a strong research background in computational catalysis, particularly Density Functional Theory (DFT), Molecular Dynamics (MD), Machine Learning (ML) and be able to lead their own research while collaborating with other team members.</p>
 
 <p>A successful candidate for the postdoctoral fellow position will satisfy the following:
-<ul style="margin-left:36px; ">
+<ul style="margin-left:16px; ">
  <li>A PhD in Chemistry, Materials Science and Engineering, Chemical Engineering, Physics, or a closely related field.</li>
  <li>Preference will be given to candidates with a strong research background in computational catalysis, computational materials science, AI/ML, DFT calculations, and (ab initio) MD simulations.</li>
  <li>Machine learning experience and a strong proficiency in Python programming and data analysis.</li>
@@ -27,7 +27,7 @@ nav_order: 6
 <br>
 <p style="color: #19417E; font-weight: bold; font-size: 18px;">Research PhD Scholarships in Computational Catalysis</p>
 <p>PhD scholarships in NUS Chemistry:
-<ul style="margin-left:36px; ">
+<ul style="margin-left:16px; ">
  <li><a href="https://nusgs.nus.edu.sg/scholarships-list/">NUS Research Scholarship</a></li>
  <li><a href="https://nusgs.nus.edu.sg/scholarships-list/">President’s Graduate Fellowship (PGF)</a></li>
  <li><a href="https://www.science.nus.edu.sg/wp-content/uploads/2022/11/FOS_Dean-Graduate-Fellowships-Terms-Conditions.pdf">Faculty of Science Dean's Graduate Fellowship</a></li>
@@ -40,7 +40,7 @@ nav_order: 6
 </ul>
 </p>
 <p>Admission requirements:
-<ul style="margin-left:36px; ">
+<ul style="margin-left:16px; ">
  <li>A Bachelor’s (Honors) degree or a 4-year Bachelor’s degree.</li>
  <li>Candidates applying for Research Scholarships must have obtained a bachelor’s degree with at least a 2nd Class Upper Honors, or its equivalent.</li>
  <li>For all PhD programs, a candidate whose medium of undergraduate instruction is not English is required to submit TOEFL (with the minimum score 85 for the internet-based test) or IELTS (with the minimum score 6.0) scores.</li>
