@@ -11,15 +11,15 @@ nav_order: 6
 <b>Postdoctoral Fellowships in Accelerated Discovery of Catalytic Materials</b>
 <p>A postdoctoral fellow position is available as early as September 2024 join our team and contribute to the discovery of new catalytic materials and next-generation catalysts for CO2RR, OER, NRR, etc. We are seeking a highly motivated candidate with a strong research background in computational catalysis, particularly Density Functional Theory (DFT), Molecular Dynamics (MD), Machine Learning (ML) and be able to lead their own research while collaborating with other team members.</p>
 
-Responsibilities:
+A successful candidate for the postdoctoral fellow position will satisfy the following:
 <li>A PhD in Chemistry, Materials Science and Engineering, Chemical Engineering, Physics, or a closely related field.</li>
 <li>Preference will be given to candidates with a strong research background in computational electrocatalysis, computational materials science, AI/ML, DFT calculations, and AIMD simulations.</li>
 <li>Machine learning experience and a strong proficiency in Python programming and data analysis.</li>
 <li>Excellent communication skills and a career-level-appropriate publication track record.</li>
 <li>The ability to work independently and collaboratively in a diverse research team.</li>
 
-How to apply:
-<p>Please include in your application package a cover letter; your full academic CV; information on 3 referees that are prepared to be consulted; your two most relevant publications. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (pengfei.ou@northwestern.edu), with the subject line “Ou AI4Catalysis PDF”. Evaluation of candidates will begin immediately and continue until filled.</p>
+<p>How to apply:
+Please include in your application package a cover letter; your full academic CV; information on 3 referees that are prepared to be consulted; your two most relevant publications. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (pengfei.ou@northwestern.edu), with the subject line “Ou AI4Catalysis PDF”. Evaluation of candidates will begin immediately and continue until filled.</p>
 </dl>
 
 <b>Research PhD scholarships</b>
