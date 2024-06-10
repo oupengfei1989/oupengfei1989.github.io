@@ -31,7 +31,7 @@ nav_order: 6
 <p>Please include in your application package a cover letter; your full academic CV. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (pengfei.ou@northwestern.edu), with the subject line “Ou Research PhD scholarships NUS Chemistry”. Prospective students please also apply for NUS Chemistry and check for more details about the admission requirements on the [website] (https://chemistry.nus.edu.sg/education/graduate/phd-programme/), for any enrollment semester in 2025. Evaluation of candidates will begin immediately and continue until filled.</p>
 
 <br>
-<b> Undergraduate students </b>
+<p style="color:#19417E";"font-weight: bold;">Undergraduate students</p>
 <p>Undergraduate students who are interested in learning and doing research in our team, please contact Dr. Pengfei Ou directly at pengfei.ou@northwestern.edu.</p>
 
 <br>
