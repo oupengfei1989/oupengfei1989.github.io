@@ -12,7 +12,7 @@ nav_order: 6
 <p>A postdoctoral fellow position is available as early as September 2024 join our team and contribute to the discovery of new catalytic materials and next-generation catalysts. We are seeking a highly motivated candidate with a strong research background in computational catalysis, particularly Density Functional Theory (DFT), Molecular Dynamics (MD), Machine Learning (ML) and be able to lead their own research while collaborating with other team members.</p>
 
 <p>A successful candidate for the postdoctoral fellow position will satisfy the following:
-<ul style="margin-left:60px; ">
+<ul style="margin-left:100px; ">
  <li>A PhD in Chemistry, Materials Science and Engineering, Chemical Engineering, Physics, or a closely related field.</li>
  <li>Preference will be given to candidates with a strong research background in computational catalysis, computational materials science, AI/ML, DFT calculations, and (ab initio) MD simulations.</li>
  <li>Machine learning experience and a strong proficiency in Python programming and data analysis.</li>
@@ -27,11 +27,14 @@ nav_order: 6
 <br>
 <p style="color: #19417E; font-weight: bold; font-size: 18px;">Research PhD Scholarships in Computational Catalysis</p>
 <p>Admission requirements:
-<li>A Bachelor’s (Honors) degree or a 4-year Bachelor’s degree.</li>
-<li>Candidates applying for Research Scholarships must have obtained a bachelor’s degree with at least a 2nd Class Upper Honors, or its equivalent.</li>
-<li>For all PhD programs, a candidate whose medium of undergraduate instruction is not English is required to submit TOEFL (with the minimum score 85 for the internet-based test) or IELTS (with the minimum score 6.0) scores.</li>
-<li>For all PhD programs, candidates are required to submit GRE (minimum score of 320 [Verbal+ Quantitative] and 3.5 [Analytical Writing]).</li>
-<li>Waiver of GRE: GRE waiver may be granted to applicants who demonstrate strong track record of academic excellence on a case-by-case basis. For detailed GRE waiver conditions, please check with the respective department PhD administrator.</li></p>
+<ul style="margin-left:100px; ">
+ <li>A Bachelor’s (Honors) degree or a 4-year Bachelor’s degree.</li>
+ <li>Candidates applying for Research Scholarships must have obtained a bachelor’s degree with at least a 2nd Class Upper Honors, or its equivalent.</li>
+ <li>For all PhD programs, a candidate whose medium of undergraduate instruction is not English is required to submit TOEFL (with the minimum score 85 for the internet-based test) or IELTS (with the minimum score 6.0) scores.</li>
+ <li>For all PhD programs, candidates are required to submit GRE (minimum score of 320 [Verbal+ Quantitative] and 3.5 [Analytical Writing])</li>
+ <li>Waiver of GRE: GRE waiver may be granted to applicants who demonstrate strong track record of academic excellence on a case-by-case basis. For detailed GRE waiver conditions, please check with the respective department PhD administrator.</li>
+</ul>
+</p>
 <p>How to apply:</p>
 <p>Please include in your application package a cover letter; your full academic CV. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (pengfei.ou@northwestern.edu), with the subject line “Ou Research PhD scholarships NUS Chemistry”. Prospective students please also apply for NUS Chemistry and check for more details about the admission requirements on the https://chemistry.nus.edu.sg/education/graduate/phd-programme/, for any enrollment semester in 2025. Evaluation of candidates will begin immediately and continue until filled.</p>
 
