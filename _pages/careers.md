@@ -30,8 +30,7 @@ nav_order: 6
 <ul style="margin-left:100px; ">
  <li><a href="https://nusgs.nus.edu.sg/scholarships-list/">NUS Research Scholarship</a></li>
  <li><a href="https://nusgs.nus.edu.sg/scholarships-list/">President’s Graduate Fellowship (PGF)</a></li>
- <li><a href=" https://www.science.nus.edu.sg/wp-content/uploads/2022/11/FOS_Dean-Graduate-Fellowships-Terms-Conditions.pdf
-">Faculty of Science Dean's Graduate Fellowship</a></li>
+ <li><a href="https://www.science.nus.edu.sg/wp-content/uploads/2022/11/FOS_Dean-Graduate-Fellowships-Terms-Conditions.pdf">Faculty of Science Dean's Graduate Fellowship</a></li>
  <li><a href="https://nusgs.nus.edu.sg/scholarships-list/">NUS Industry-Relevant PhD Scholarship (NUS-IRP)</a></li>
  <li><a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">NUS-Singapore International Graduate Award (SINGA) Scholarship</a></li>
  <li><a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore">A*STAR Graduate Scholarship</a></li>
