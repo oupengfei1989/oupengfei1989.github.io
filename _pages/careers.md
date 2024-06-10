@@ -26,17 +26,32 @@ nav_order: 6
 
 <br>
 <p style="color: #19417E; font-weight: bold; font-size: 18px;">Research PhD Scholarships in Computational Catalysis</p>
+<p>PhD scholarships in NUS Chemistry:
+<ul style="margin-left:100px; ">
+ <li><a href="https://nusgs.nus.edu.sg/scholarships-list/">NUS Research Scholarship</a></li>
+ <li><a href="https://nusgs.nus.edu.sg/scholarships-list/">President’s Graduate Fellowship (PGF)</a></li>
+ <li><a href=" https://www.science.nus.edu.sg/wp-content/uploads/2022/11/FOS_Dean-Graduate-Fellowships-Terms-Conditions.pdf
+">Faculty of Science Dean's Graduate Fellowship</a></li>
+ <li><a href="https://nusgs.nus.edu.sg/scholarships-list/">NUS Industry-Relevant PhD Scholarship (NUS-IRP)</a></li>
+ <li><a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">NUS-Singapore International Graduate Award (SINGA) Scholarship</a></li>
+ <li><a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore">A*STAR Graduate Scholarship</a></li>
+ <li><a href="http://www.tju-nus-fz.org.cn/">Tianjin University (TJU) – NUS Joint Institute in Fuzhou Scholarship</a></li>
+ <li><a href="https://www.nusri.cn/">NUS Suzhou Research Institute Scholarship</a></li>
+ <li><a href="https://aisingapore.org/research/phd-fellowship-programme/">AISG PhD Fellowship Programme</a></li> 
+</ul>
+</p>
 <p>Admission requirements:
 <ul style="margin-left:100px; ">
  <li>A Bachelor’s (Honors) degree or a 4-year Bachelor’s degree.</li>
  <li>Candidates applying for Research Scholarships must have obtained a bachelor’s degree with at least a 2nd Class Upper Honors, or its equivalent.</li>
  <li>For all PhD programs, a candidate whose medium of undergraduate instruction is not English is required to submit TOEFL (with the minimum score 85 for the internet-based test) or IELTS (with the minimum score 6.0) scores.</li>
- <li>For all PhD programs, candidates are required to submit GRE (minimum score of 320 [Verbal+ Quantitative] and 3.5 [Analytical Writing])</li>
+ <li>For all PhD programs, candidates are required to submit GRE (minimum score of 320 [Verbal+Quantitative] and 3.5 [Analytical Writing])</li>
  <li>Waiver of GRE: GRE waiver may be granted to applicants who demonstrate strong track record of academic excellence on a case-by-case basis. For detailed GRE waiver conditions, please check with the respective department PhD administrator.</li>
 </ul>
 </p>
+<p>Expected Start Date: Jan 1, 2025, or as soon as possible thereafter.</p>
 <p>How to apply:</p>
-<p>Please include in your application package a cover letter; your full academic CV. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (pengfei.ou@northwestern.edu), with the subject line “Ou Research PhD scholarships NUS Chemistry”. Prospective students please also apply for NUS Chemistry and check for more details about the admission requirements on the https://chemistry.nus.edu.sg/education/graduate/phd-programme/, for any enrollment semester in 2025. Evaluation of candidates will begin immediately and continue until filled.</p>
+<p>Please include in your application package a cover letter; your full academic CV. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (pengfei.ou@northwestern.edu), with the subject line “Ou Research PhD scholarships NUS Chemistry”. Prospective students please also apply for NUS Chemistry and check for more details about the admission requirements and PhD scholarships on websites (https://www.science.nus.edu.sg/graduates/phd/; https://chemistry.nus.edu.sg/education/graduate/phd-programme/). Evaluation of candidates will begin immediately and continue until filled.</p>
 
 <br>
 <p style="color: #19417E; font-weight: bold; font-size: 18px;">Undergraduate students</p>
