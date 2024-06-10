@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /contact/
-title: contact
+permalink: /careers/
+title: careers
 description: We are actively seeking for highly motivated candidates for postdoctoral fellowshipes, research PhD scholarship, undergraduate students, and visiting scholars.
 nav: true
 nav_order: 6
