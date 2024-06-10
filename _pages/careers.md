@@ -11,11 +11,11 @@ nav_order: 6
 <b>Postdoctoral Fellowships</b>
 <dt>A postdoctoral fellow position is available as early as September 2024 for the development of DFT/ML modeling of heterogeneous catalysis. We are seeking a highly motivated candidate with a strong research background in computational catalysis, 
 A successful candidate for the postdoctoral fellow position will satisfy the following:</dt>
-<li>•	A PhD in Chemistry, Materials Science and Engineering, Chemical Engineering, Physics, or a closely related field.</li>
-<li>•	Preference will be given to candidates with a strong research background in computational electrocatalysis, computational materials science, AI/ML, DFT calculations, and AIMD simulations.</li>
-<li>•	Machine learning experience and a strong proficiency in Python programming and data analysis.</li>
-<li>•	Excellent communication skills and a career-level-appropriate publication track record.</li>
-<li>•	The ability to work independently and collaboratively in a diverse research team.</li>
+<li>A PhD in Chemistry, Materials Science and Engineering, Chemical Engineering, Physics, or a closely related field.</li>
+<li>Preference will be given to candidates with a strong research background in computational electrocatalysis, computational materials science, AI/ML, DFT calculations, and AIMD simulations.</li>
+<li>Machine learning experience and a strong proficiency in Python programming and data analysis.</li>
+<li>Excellent communication skills and a career-level-appropriate publication track record.</li>
+<li>The ability to work independently and collaboratively in a diverse research team.</li>
 Preview of applications begins immediately. Applications are accepted until the position is filled.
 Please include a cover letter, C.V. with a list of publications, coding contributions (such as git repository), and the contact information for two to three academic references to Dr. Pengfei Ou (pengfei.ou@northwestern.edu).
 </dl>
