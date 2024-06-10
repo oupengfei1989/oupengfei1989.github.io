@@ -10,7 +10,7 @@ nav_order: 6
 <head>
   <style>
     p {
-      style="color:#19417E"
+      style="color:#19417E";
       font-weight: bold;
     }
   </style>
