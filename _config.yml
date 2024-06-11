@@ -334,13 +334,17 @@ enable_publication_badges:
 filtered_bibtex_keywords:
   [
     abbr,
+    abstract,
     additional_info,
     altmetric,
+    arxiv,
     award,
     award_name,
     bibtex_show,
     blog,
     code,
+    html,
+    pdf,
     poster,
     preview,
     selected,
