@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 
-<p style="color: #19417E; font-weight: bold; font-size: 18px;">Postdoctoral Fellowships in Accelerated Discovery of Catalytic Materials</p>
+<p style="color: #A624A6; font-weight: bold; font-size: 18px;">Postdoctoral Fellowships in Accelerated Discovery of Catalytic Materials</p>
 <p>A postdoctoral fellow position is available as early as September 2024 join our team and contribute to the discovery of new catalytic materials and next-generation catalysts. We are seeking a highly motivated candidate with a strong research background in computational catalysis, particularly Density Functional Theory (DFT), Molecular Dynamics (MD), Machine Learning (ML) and be able to lead their own research while collaborating with other team members.</p>
 
 <p>A successful candidate for the postdoctoral fellow position will satisfy the following:
@@ -25,7 +25,7 @@ nav_order: 6
 <p>Please include in your application package a cover letter; your full academic CV; information on 3 referees that are prepared to be consulted; your two most relevant publications. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (pengfei.ou@northwestern.edu), with the subject line “Ou Postdoctoral Fellowships NUS Chemistry”. Evaluation of candidates will begin immediately and continue until filled.</p>
 
 <br>
-<p style="color: #19417E; font-weight: bold; font-size: 18px;">Research PhD Scholarships in Computational Catalysis</p>
+<p style="color: #A624A6; font-weight: bold; font-size: 18px;">Research PhD Scholarships in Computational Catalysis</p>
 <p>PhD scholarships in NUS Chemistry:
 <ul style="margin-left:16px; ">
  <li><a href="https://nusgs.nus.edu.sg/scholarships-list/">NUS Research Scholarship</a></li>
@@ -53,9 +53,9 @@ nav_order: 6
 <p>Please include in your application package a cover letter; your full academic CV. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (pengfei.ou@northwestern.edu), with the subject line “Ou Research PhD scholarships NUS Chemistry”. Prospective students please also apply for NUS Chemistry and check for more details about the admission requirements and PhD scholarships on websites (https://www.science.nus.edu.sg/graduates/phd/; https://chemistry.nus.edu.sg/education/graduate/phd-programme/). Evaluation of candidates will begin immediately and continue until filled.</p>
 
 <br>
-<p style="color: #19417E; font-weight: bold; font-size: 18px;">Undergraduate students</p>
+<p style="color: #A624A6; font-weight: bold; font-size: 18px;">Undergraduate students</p>
 <p>Undergraduate students who are interested in learning and doing research in our team, please contact Dr. Pengfei Ou directly at pengfei.ou@northwestern.edu.</p>
 
 <br>
-<p style="color: #19417E; font-weight: bold; font-size: 18px;">Visiting scholars</p>
+<p style="color: #A624A6; font-weight: bold; font-size: 18px;">Visiting scholars</p>
 <p>Visiting scholars who are interested in performing research in our team, please contact Dr. Pengfei Ou directly at pengfei.ou@northwestern.edu with your full academic CV.</p>
