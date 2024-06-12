@@ -22,7 +22,7 @@ nav_order: 6
 </p>
 <p>Expected start date: Sep 1, 2024, or as soon as possible thereafter.</p>
 <p>How to apply:</p>
-<p>Please include in your application package a cover letter; your full academic CV; information on 3 referees that are prepared to be consulted; your two most relevant publications. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (<a href="pengfeiou.nuschem@gmail.com">pengfeiou.nuschem@gmail.com</a>), with the subject line “Ou Postdoctoral Fellowships NUS Chemistry”. Evaluation of candidates will begin immediately and continue until filled.</p>
+<p>Please include in your application package a cover letter; your full academic CV; information on 3 referees that are prepared to be consulted; your two most relevant publications. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (<a href="mailto: pengfeiou.nuschem@gmail.com">pengfeiou.nuschem@gmail.com</a>), with the subject line “Ou Postdoctoral Fellowships NUS Chemistry”. Evaluation of candidates will begin immediately and continue until filled.</p>
 
 <br>
 <p style="color: #A624A6; font-weight: bold; font-size: 18px;">Research PhD Scholarships in Computational Catalysis</p>
@@ -50,12 +50,12 @@ nav_order: 6
 </p>
 <p>Expected start date: Jan 1, 2025, or as soon as possible thereafter.</p>
 <p>How to apply:</p>
-<p>Please include in your application package a cover letter; your full academic CV. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (<a href="pengfeiou.nuschem@gmail.com">pengfeiou.nuschem@gmail.com</a>), with the subject line “Ou Research PhD scholarships NUS Chemistry”. Prospective students please also apply for NUS Chemistry and check for more details about the admission requirements and PhD scholarships on websites (https://www.science.nus.edu.sg/graduates/phd/; https://chemistry.nus.edu.sg/education/graduate/phd-programme/). Evaluation of candidates will begin immediately and continue until filled.</p>
+<p>Please include in your application package a cover letter; your full academic CV. Please send as a single combined PDF whose file name includes your first and last names to Dr. Pengfei Ou (<a href="mailto: pengfeiou.nuschem@gmail.com">pengfeiou.nuschem@gmail.com</a>), with the subject line “Ou Research PhD scholarships NUS Chemistry”. Prospective students please also apply for NUS Chemistry and check for more details about the admission requirements and PhD scholarships on websites (https://www.science.nus.edu.sg/graduates/phd/; https://chemistry.nus.edu.sg/education/graduate/phd-programme/). Evaluation of candidates will begin immediately and continue until filled.</p>
 
 <br>
 <p style="color: #A624A6; font-weight: bold; font-size: 18px;">Undergraduate students</p>
-<p>Undergraduate students who are interested in learning and doing research in our team, please contact Dr. Pengfei Ou directly at <a href="pengfeiou.nuschem@gmail.com">pengfeiou.nuschem@gmail.com</a>.</p>
+<p>Undergraduate students who are interested in learning and doing research in our team, please contact Dr. Pengfei Ou directly at <a href="mailto: pengfeiou.nuschem@gmail.com">pengfeiou.nuschem@gmail.com</a>.</p>
 
 <br>
 <p style="color: #A624A6; font-weight: bold; font-size: 18px;">Visiting scholars</p>
-<p>Visiting scholars who are interested in performing research in our team, please contact Dr. Pengfei Ou directly at <a href="pengfeiou.nuschem@gmail.com">pengfeiou.nuschem@gmail.com</a> with your full academic CV.</p>
+<p>Visiting scholars who are interested in performing research in our team, please contact Dr. Pengfei Ou directly at <a href="mailto: pengfeiou.nuschem@gmail.com">pengfeiou.nuschem@gmail.com</a> with your full academic CV.</p>
