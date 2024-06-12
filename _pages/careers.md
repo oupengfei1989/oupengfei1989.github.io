@@ -58,4 +58,4 @@ nav_order: 6
 
 <br>
 <p style="color: #A624A6; font-weight: bold; font-size: 18px;">Visiting scholars</p>
-<p>Visiting scholars who are interested in performing research in our team, please contact Dr. Pengfei Ou directly at pengfeiou.nuschem@gmail.com with your full academic CV.</p>
+<p>Visiting scholars who are interested in performing research in our team, please contact Dr. Pengfei Ou directly at <a href="pengfeiou.nuschem@gmail.com">pengfeiou.nuschem@gmail.com</a> with your full academic CV.</p>
